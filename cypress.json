@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "ignoreTestFiles": "*.js.map",
+  "fixturesFolder": "cypressJS/fixtures",
+  "pluginsFile": "cypressJS/plugins/index.js",
+  "video": false,
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "results/my-test-output-[hash].xml",
+    "toConsole": true
+  }
+}

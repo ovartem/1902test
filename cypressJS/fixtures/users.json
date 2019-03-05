@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "lloyd gonzalez",
+    "city": "hereford"
+  },
+  {
+    "id": 2,
+    "name": "emma stewart",
+    "city": "worcester"
+  },
+  {
+    "id": 3,
+    "name": "danielle moore",
+    "city": "cardiff"
+  },
+  {
+    "id": 4,
+    "name": "linda ruiz",
+    "city": "liverpool"
+  },
+  {
+    "id": 5,
+    "name": "julia cunningham",
+    "city": "sheffield"
+  }
+]
